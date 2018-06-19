@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:totoro-games/totoro-games.github.io.git
+	branch = master

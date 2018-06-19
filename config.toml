@@ -1,6 +1,6 @@
-baseurl = "http://katamen.com/"
+baseurl = "https://totoro-games.github.io/"
 languageCode = "en-us"
-title = "Studio Katamen"
+title = "多多罗游戏"
 theme = "hugo-natrium-theme"
 preserveTaxonomyNames = true
 rssLimit = 10
